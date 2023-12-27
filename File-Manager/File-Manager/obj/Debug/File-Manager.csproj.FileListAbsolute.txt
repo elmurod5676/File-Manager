@@ -1,0 +1,10 @@
+C:\Users\elmuroddev\source\repos\File-Manager\File-Manager\bin\Debug\File-Manager.exe.config
+C:\Users\elmuroddev\source\repos\File-Manager\File-Manager\bin\Debug\File-Manager.exe
+C:\Users\elmuroddev\source\repos\File-Manager\File-Manager\bin\Debug\File-Manager.pdb
+C:\Users\elmuroddev\source\repos\File-Manager\File-Manager\obj\Debug\File-Manager.csproj.AssemblyReference.cache
+C:\Users\elmuroddev\source\repos\File-Manager\File-Manager\obj\Debug\File_Manager.Form1.resources
+C:\Users\elmuroddev\source\repos\File-Manager\File-Manager\obj\Debug\File_Manager.Properties.Resources.resources
+C:\Users\elmuroddev\source\repos\File-Manager\File-Manager\obj\Debug\File-Manager.csproj.GenerateResource.cache
+C:\Users\elmuroddev\source\repos\File-Manager\File-Manager\obj\Debug\File-Manager.csproj.CoreCompileInputs.cache
+C:\Users\elmuroddev\source\repos\File-Manager\File-Manager\obj\Debug\File-Manager.exe
+C:\Users\elmuroddev\source\repos\File-Manager\File-Manager\obj\Debug\File-Manager.pdb
